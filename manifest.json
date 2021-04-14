@@ -1,1 +1,12 @@
-{"manifest_version":2,"name":"Discord web","description":"A web version of Discord for ChromeOS.","version":"1.0","icons":{"128":"img/icon.png"},"app":{"background":{"scripts":["js/background.js"],"pages":["html/embed.html"]}},"permissions":["webview","fullscreen","notifications","audioCapture","videoCapture"]}
+{
+  "manifest_version":2,
+  "name":"Discord web",
+  "description":"A web version of Discord for ChromeOS.",
+  "version":"1.0",
+  "icons":{"128":"img/icon.png"},
+  "app":{
+    "background":{
+      "scripts":["js/background.js"],
+      "pages":["html/embed.html"]}},
+  "permissions":["webview","fullscreen","notifications","audioCapture","videoCapture"]
+}
