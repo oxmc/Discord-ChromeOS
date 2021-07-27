@@ -1,4 +1,4 @@
-<h1><a href='https://oxmc.github.io/spotify/'><img src='img/icon.png' width='64px'></a> Discord web for ChromeOS </h1>
+<h1><a href='https://discord.com'><img src='img/icon.png' width='64px'></a> Discord web for ChromeOS </h1>
 
 [![MIT license](https://img.shields.io/badge/License-MIT-C23939.svg)](COPYING)
 [![GitHub release](https://img.shields.io/github/release/oxmc/Discord-ChromeOS.svg)](../../../tags)
